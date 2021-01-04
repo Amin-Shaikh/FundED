@@ -1,0 +1,32 @@
+{
+	"NGO_HELP":	[
+    	{
+         "N_title": "Login Screen",
+	 "N_img": "https://github.com/MoazamHussain/FundED/blob/main/NGOImgsHelp/ngo_login.jpg?raw=true",
+	 "N_desc" : "The NGO should login or register itself to proceed with the application."
+	},
+	{
+         "N_title": "NGO Dashboard",
+	 "N_img": "https://github.com/MoazamHussain/FundED/blob/main/NGOImgsHelp/ngo_dashboard.jpg?raw=true",
+	 "N_desc" : "View all donation, appeal and NGO related information in one tap."
+	},
+	{
+         "N_title": "Create Appeal",
+	 "N_img": "https://github.com/MoazamHussain/FundED/blob/main/NGOImgsHelp/createappeal.jpg?raw=true",
+	 "N_desc" : "The NGO will be directed to an activity where they have to fill out details regarding their particular appeal."
+	},
+	{
+         "N_title": "NGO Details",
+	 "N_img": "https://github.com/MoazamHussain/FundED/blob/main/NGOImgsHelp/setup_ngo.jpg?raw=true",
+	 "N_desc" : "This module contains the logged in NGO related details:
+•	NGO details 
+•	First Registration Details 
+•	FCRA Details 
+•	Details of achievements
+•	Contact Details
+•	Bank Details
+"
+	}		
+		]
+
+}

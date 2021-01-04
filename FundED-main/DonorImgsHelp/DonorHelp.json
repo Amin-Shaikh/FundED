@@ -1,0 +1,62 @@
+{
+	"DONOR_HELP":	[
+    	{
+         "D_title": "Login Screen",
+	 "D_img": "https://github.com/MoazamHussain/FundED/blob/main/DonorImgsHelp/profile_new_help.jpg?raw=true",
+	 "D_desc" : "Login or Signup through this module"
+	},
+	{
+         "D_title": "Appeal Categories List",
+	 "D_img": "https://github.com/MoazamHussain/FundED/blob/main/DonorImgsHelp/categorylist_new_help.jpg?raw=true",
+	 "D_desc" : "List of appeal categories is displayed along with the number of appeals in them."
+	},
+	{
+         "D_title": "Appeal",
+	 "D_img": "https://github.com/MoazamHussain/FundED/blob/main/DonorImgsHelp/appeal_new_help.jpg?raw=true",
+	 "D_desc" : "On selecting a category the donor is redirected to the category’s particular appeal."
+	},
+	{
+         "D_title": "Appeal Details",
+	 "D_img": "https://github.com/MoazamHussain/FundED/blob/main/DonorImgsHelp/appealdetals_new_help.jpg?raw=true",
+	 "D_desc" : "On selecting a particular appeal it’s details are displayed and the donor can also proceed to make payment from this module only if he/she is logged in."
+	},
+	{
+         "D_title": "Donate",
+	 "D_img": "https://github.com/MoazamHussain/FundED/blob/main/DonorImgsHelp/donate_new_help.jpg?raw=true",
+	 "D_desc" : "Proceed to make payment from this module only if he/she is logged in."
+	},
+	
+	{
+         "D_title": "List of NGO's",
+	 "D_img": "https://github.com/MoazamHussain/FundED/blob/main/DonorImgsHelp/ngolist_new_help.jpg?raw=true",
+	 "D_desc" : "List of all registered NGO’s is displayed."
+	},
+	{
+         "D_title": "About the NGO",
+	 "D_img": "https://github.com/MoazamHussain/FundED/blob/main/DonorImgsHelp/aboutngo_new_help.jpg?raw=true",
+	 "D_desc" : "On selecting a particular NGO from the list , details about that particular NGO is displayed."
+	},
+	{
+         "D_title": "Appeal List",
+	 "D_img": "https://github.com/MoazamHussain/FundED/blob/main/DonorImgsHelp/appeallistngo_new_help.jpg?raw=true",
+	 "D_desc" : "On selecting a particular NGO from the list , details about that particular NGO is displayed."
+	},
+	{
+         "D_title": "Appeal Details",
+	 "D_img": "https://github.com/MoazamHussain/FundED/blob/main/DonorImgsHelp/appealdetailsngo_new_help.jpg?raw=true",
+	 "D_desc" : "On selecting a particular appeal it’s details are displayed and the donor can also proceed to make payment from this module only if he/she is logged in."
+	},
+	{
+         "D_title": "Donate",
+	 "D_img": "https://github.com/MoazamHussain/FundED/blob/main/DonorImgsHelp/donate_new_help.jpg?raw=true",
+	 "D_desc" : "Proceed to make payment from this module only if he/she is logged in."
+	},
+	{
+         "D_title": "Profile",
+	 "D_img": "https://github.com/MoazamHussain/FundED/blob/main/DonorImgsHelp/profile_new_help.jpg?raw=true",
+	 "D_desc" : "Login or Signup through this module and if donor is logged in, his/her details are displayed. The donor can update his/her details also through this module."
+	}
+		
+		]
+
+}
